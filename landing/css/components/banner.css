@@ -1,0 +1,30 @@
+.banner {
+    background-size: cover;
+    padding: 200px 0;
+    background-position: center;
+    height: 250px;
+    text-align: none;
+    font-size: 32px;
+}
+
+.banner a {
+    margin: 0px;
+    color: white;
+}
+
+.banner p {
+    margin: 0px;
+    color: white;
+    font-size: 18px;
+    margin-bottom: 60px;
+}
+
+.banner a.btn-red {
+    margin-left: 230px;
+    font-size: 18px;
+    align-items: center;
+}
+
+.banner-title {
+    font-size: 32px;
+}
